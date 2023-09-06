@@ -1,0 +1,39 @@
+{
+  "name": "@boldreports/javascript-reporting-extensions",
+  "version": "5.2.34",
+  "description": "The Bold Reports Extensions by Syncfusion contains scripts and themes for barcode report item to be integrated in JavaScript Report Viewer and JavaScript Report Designer for enterprise web development(HTML5)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boldreports/javascript-reporting-extensions.git"
+  },
+  "keywords": [
+    "syncfusion",
+    "bold reports",
+    "javascript",
+    "javascript reporting extensions",
+    "barcode report extension",
+    "extension",
+    "barcode reportitem",
+    "businessobject data",
+    "psql",
+    "qrbarcode",
+    "boldReportViewer",
+    "JavaScript ReportViewer",
+    "Angular ReportViewer",
+    "reporting tools",
+    "ssrs report viewer",
+    "ssrs report designer",
+    "export report",
+    "report editor",
+    "report builder",
+    "rdl",
+    "rdlc"
+  ],
+  "author": "Syncfusion Inc",
+  "license": "SEE LICENSE IN README.md",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/bold-reports/javascript-reporting-extensions/issues"
+  },
+  "homepage": "https://boldreports.com/"
+}
